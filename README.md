@@ -51,7 +51,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**
 ```bash
-    git clone https://github.com/FedeTome0/Don-Ocr3-thesis.git
+    git clone https://github.com/pisa-dlt-lab/fairef.git
     cd Don-Ocr3-thesis
 ```
 2. **Install smart contract dependencies (Hardhat)**
